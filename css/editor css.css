@@ -1,6 +1,12 @@
-body {
+.theme {
   background-color: #000;
 }
-header {
-
+.header {
+  margin-left: 20px;
+}
+.p{
+  color: #fff;
+}
+.h {
+  color: #fff;
 }
